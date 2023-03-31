@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Fresher Jobs</title>
+</head>
+<body>
+    <!-- Side bar-->
+    <div class="sidebar">
+        <ion-icon class="close-detail" name="close-outline"></ion-icon>
+        <h1 class="logo">
+            INEXPERT
+        </h1>
+        <div class="menus">
+            <a href="#"><ion-icon name="home-outline"></ion-icon>Home</a>
+            <a href="#"><ion-icon name="newspaper-outline"></ion-icon>Find Jobs</a>
+            <a href="#"><ion-icon name="stats-chart-outline"></ion-icon>Performance</a>
+            <a href="#"><ion-icon name="bookmarks-outline"></ion-icon>Bookmarks</a>
+            <a href="#"><ion-icon name="mail-unread-outline"></ion-icon>Message</a>
+            <a href="#"><ion-icon name="settings-outline"></ion-icon>Setting</a>
+
+        </div>
+        <div class="profile">
+            <img src="noPhoto.png" alt="profile" class="profile-img">
+            <div class="profile-name">
+                <h4 id="name">Your name</h4>
+                <p id="profession">Profession</p>
+            </div>
+        </div>
+    </div>
+    <!-- Main -->
+    <div class="main" id="main">
+        <div class="main-header">
+            <ion-icon class="menu-bar" name="menu-outline"></ion-icon>
+            <div class="search">
+                <input type="text" placeholder="Search your best jobs here...">
+                <button class="btn-search">
+                    <ion-icon name="search-outline"></ion-icon>
+                </button>
+            </div>
+        </div>
+        <div class="wrapper" id="wrapper">
+            <div class="card" id="card">
+                <div class="card-left bg">
+                    <img id="companylogo" src="ASEN.svg" alt="img">
+                </div>
+                <div class="card-center">
+                    <h3 class="company" id="company">Company Name</h3>
+                    <p class="card-detail" id="description">description</p>
+                    <p class="card-loc" id="location"><ion-icon name="location-outline"></ion-icon>location</p>
+                    <div class="card-sub">
+                        <p id="time"><ion-icon name="today-outline"></ion-icon>time</p>
+                        <p id="jobtype"><ion-icon name="hourglass-outline"></ion-icon>jobtype</p>
+                        <p><ion-icon name="shield-checkmark-outline"></ion-icon><b  id="experience">0-1</b></p>
+                    </div>
+                </div>
+                <div class="card-right">
+                    <div class="card-tag">
+                        <h5></h5>
+                        <a id="jobname"></a>
+                    </div>
+                    <div class="card-salary">
+                        <p><b id="salary">Rs.20k</b></p>
+                    </div>
+                    <a href="${job.link}" id="apply">
+                    <button class="apply" onclick="location.href='${job.link}';">Apply</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="detail" id="detail">
+        <ion-icon class="close-detail" name="close-outline"></ion-icon>
+        <div class="detail-header">
+            <img id="detail-companylogo" src="ASEN.svg" alt="img">
+            <h3 class="company" id="detail-company">INEXPERT</h3>
+            <p class="card-detail" id="detail-jobtitle">Welcome to our community.</p>
+        </div>
+        <hr class="divider">
+        <div class="detail-desc">
+            <div class="about">
+                <h4>More Details</h4>
+                <p id="detail-description">INEXPERT is a non-profit job board site that covers over 200 countries. Especially for inexperienced (or) fresher candidates suited jobs, notify the platform. Finally, here is our logo whenever you see our site. Ofcourse this logo was INEXPERT.</p>
+                <b>Location: </b><p id="detail-loc"></p>
+                <b>Posted time: </b><p id="detail-time"></p>
+                <b>Job Type: </b><p id="detail-jobtype"></p>
+                <b>Experience: </b><p id="detail-exp"></p>
+                <b>Salary range: </b> <p id="detail-sal"></p>
+                <b>Apply Link: </b><p id="detail-link"></p>
+            </div>
+        </div>
+        <hr class="divider">
+        <div class="detail-btn">
+            <a href= '#' id="apply">
+                <button class="apply" onclick="location.href='#';">Apply Now</button>
+            </a>
+            <a href="#" id="save"><button class="btn-save">Save Job</button></a>
+        </div>
+    </div>
+
+</body>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<script src="app.js"></script>
+</html>

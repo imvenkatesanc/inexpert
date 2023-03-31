@@ -1,0 +1,28 @@
+[
+    
+    {
+        "id": 0,
+        "jobTitle": "Marketing Specialist",
+        "salary": "₹30k /month",
+        "link": "https://www.apple.com",
+        "company": "Apple",
+        "description": "This is a marketing specialist role.The Indian Rupee sign is an allegory of Indian ethos. The symbol is an amalgam of Devanagari and the Roman Capital with two parallel horizontal stripes",
+        "location": "San Francisco",
+        "time": "10:00AM",
+        "jobtype": "full-time",
+        "experience":"0-1"
+        },
+        {
+            "id": 1,
+            "jobTitle": "Software Engineer",
+            "salary": "$100k per year",
+            "link": "https://www.example.com",
+            "company": "Example Inc.",
+            "description": "This is a software engineering role.",
+            "location": "New York",
+            "time": "9:00AM",
+            "jobtype": "full-time",
+            "experience":"3-5"
+          }
+          
+]
