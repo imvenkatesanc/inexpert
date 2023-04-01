@@ -275,6 +275,17 @@ body{
     border-radius: 20px;
     cursor: pointer;
 }
+.applyc{
+    width: 100%;
+    display: flex;
+    border: none;
+    background-color: var(--pri);
+    color: var(--whi);
+    justify-content: center;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+}
 .btn-apply{
     background-color: var(--pri);
     color: var(--whi);
