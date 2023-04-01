@@ -1,52 +1,49 @@
 [
-    
     {
-        "id": 0,
-        "jobTitle": "Marketing Specialist",
-        "salary": "₹30k /month",
-        "link": "https://www.apple.com",
-        "company": "Apple",
-        "description": "This is a marketing specialist role.The Indian Rupee sign is an allegory of Indian ethos. The symbol is an amalgam of Devanagari and the Roman Capital with two parallel horizontal stripes",
-        "location": "San Francisco",
-        "time": "10:00AM",
-        "jobtype": "full-time",
-        "experience":"0-1"
-        },
-        {
-            "id": 1,
-            "jobTitle": "Software Engineer",
-            "salary": "$100k per year",
-            "link": "https://www.example.com",
-            "company": "Example Inc.",
-            "description": "This is a software engineering role.",
-            "location": "New York",
-            "time": "9:00AM",
-            "jobtype": "full-time",
-            "experience":"3-5"
-          },
-        {
-            "id":2,
-            "jobTitle": "Intern (Data Analyst)",
-            "salary": "0 to 6 months",
-            "link": "https://bit.ly/3Jhiesy",
-            "company": "Software AG",
-            "description": "BE, BTech, BSc (Mathematics/Statistics), Maters Degree (Applied Statistics/Mathematics)",
-            "location": "Bangalore",
-            "time": "0 to 6 months",
-            "jobtype": "https://bit.ly/2WqENE6",
-            "experience":"2 yr"
-         },
-{
-  "jobTitle": "QA Engineer",
-  "salary": "",
-  "link": "https://bit.ly/3uZxnbk",
-  "company": "Esko Recruitment",
-  "description": "Graduates who have completed Engineering course in 2021 and who don’t have any prior work experience can also apply.",
-  "location": "Bangalore",
-  "time": "",
-  "experience": "0 to 4 years",
-  "jobtype": ""
-}
 
-      
+  "jobTitle": "Product Support Associate",
+
+  "salary": "",
+
+  "link": "https://bit.ly/3TZzpDS",
+
+  "company": "Thomson Reuters Recruitment",
+
+  "description": "Before Applying For the Job, Please read complete Job Description.",
+
+  "location": "Hyderabad",
+
+  "time": "8th or 15th April 2023",
+
+  "experience": "Freshers / 3 to 12 months",
+
+  "jobtype": ""
+
+},
+    {
+
+  "jobTitle": "Product Intern",
+
+  "salary": "Rs. 1,00,000/- per month",
+
+  "link": "https://bit.ly/3GbQ2qb",
+
+  "company": "Adobe Freshers Recruitment",
+
+  "description": "",
+
+  "location": "Bangalore, Noida",
+
+  "time": "",
+
+  "experience": "Penultimate year BTech or MTech student in Computer Science, or related field",
+
+  "jobtype": "Internship"
+
+}
 ]
+
+
+
+
+
