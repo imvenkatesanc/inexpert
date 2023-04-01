@@ -1,5 +1,17 @@
 [
 {
+  "id": 1,
+  "jobTitle": "Support Ops Specialist",
+  "salary": "",
+  "link": "https://bit.ly/3ZQu97E",
+  "company": "Amazon",
+  "description": "Amazon is looking for a Support Ops Specialist in Bangalore. The candidate should have a Bachelor's degree and 0-3 years of experience.",
+  "location": "Bangalore",
+  "time": "",
+  "experience": "0-3 years",
+  "jobtype": "Full-time"
+},
+{
   "id":2,
   "jobTitle": "Intern",
   "salary": "Nil",
