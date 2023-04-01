@@ -1,6 +1,150 @@
 [
 {
   "id": 1,
+  "jobTitle": "Marketing Manager",
+  "salary": "$80,000 - $100,000",
+  "link": "https://example.com/job1",
+  "company": "ABC Inc.",
+  "description": "ABC Inc. is seeking a Marketing Manager with 5+ years of experience.",
+  "location": "San Francisco, CA",
+  "time": "Full-time",
+  "experience": "5+ years",
+  "jobtype": "Marketing"
+},
+{
+  "id": 2,
+  "jobTitle": "Software Engineer",
+  "salary": "$100,000 - $120,000",
+  "link": "https://example.com/job2",
+  "company": "XYZ Corp.",
+  "description": "XYZ Corp. is looking for a Software Engineer with experience in Python and JavaScript.",
+  "location": "Seattle, WA",
+  "time": "Full-time",
+  "experience": "2+ years",
+  "jobtype": "Software Engineering"
+},
+{
+  "id": 3,
+  "jobTitle": "Human Resources Manager",
+  "salary": "$90,000 - $110,000",
+  "link": "https://example.com/job3",
+  "company": "123 Corp.",
+  "description": "123 Corp. is seeking a Human Resources Manager to oversee recruiting, hiring, and employee relations.",
+  "location": "New York, NY",
+  "time": "Full-time",
+  "experience": "7+ years",
+  "jobtype": "Human Resources"
+},
+{
+  "id": 4,
+  "jobTitle": "Data Analyst",
+  "salary": "$70,000 - $90,000",
+  "link": "https://example.com/job4",
+  "company": "Acme Corp.",
+  "description": "Acme Corp. is looking for a Data Analyst to help analyze and interpret data from various sources.",
+  "location": "Austin, TX",
+  "time": "Full-time",
+  "experience": "1-3 years",
+  "jobtype": "Data Analytics"
+},
+{
+  "id": 5,
+  "jobTitle": "Sales Associate",
+  "salary": "$40,000 - $60,000",
+  "link": "https://example.com/job5",
+  "company": "Big Box Retailer",
+  "description": "Big Box Retailer is seeking a Sales Associate to help customers with their purchases.",
+  "location": "Chicago, IL",
+  "time": "Part-time",
+  "experience": "No experience required",
+  "jobtype": "Sales"
+},
+{
+  "id": 6,
+  "jobTitle": "Account Manager",
+  "salary": "$70,000 - $90,000",
+  "link": "https://example.com/job6",
+  "company": "Global Enterprise",
+  "description": "Global Enterprise is seeking an Account Manager to manage key accounts and maintain client relationships.",
+  "location": "London, UK",
+  "time": "Full-time",
+  "experience": "3-5 years",
+  "jobtype": "Account Management"
+},
+{
+  "id": 7,
+  "jobTitle": "Software Engineer",
+  "salary": "Competitive",
+  "link": "https://bit.ly/3r5Lg8X",
+  "company": "Google",
+  "description": "We are looking for a software engineer to join our team.",
+  "location": "San Francisco, CA",
+  "time": "Full-time",
+  "experience": "2+ years",
+  "jobtype": "Engineering"
+},
+{
+  "id": 8,
+  "jobTitle": "Marketing Manager",
+  "salary": "55k-65k",
+  "link": "https://bit.ly/3rl6TcU",
+  "company": "ABC Company",
+  "description": "We are seeking a marketing manager to help us grow our brand.",
+  "location": "New York, NY",
+  "time": "Full-time",
+  "experience": "3-5 years",
+  "jobtype": "Marketing"
+},
+{
+  "id": 9,
+  "jobTitle": "Sales Representative",
+  "salary": "Commission-based",
+  "link": "https://bit.ly/3r98O5c",
+  "company": "XYZ Corporation",
+  "description": "We are seeking a sales representative to help us expand our client base.",
+  "location": "Los Angeles, CA",
+  "time": "Part-time",
+  "experience": "1-3 years",
+  "jobtype": "Sales"
+},
+{
+  "id": 10,
+  "jobTitle": "Graphic Designer",
+  "salary": "45k-55k",
+  "link": "https://bit.ly/3vEk4CI",
+  "company": "Acme Design",
+  "description": "We are seeking a graphic designer to help us create stunning visuals for our clients.",
+  "location": "Chicago, IL",
+  "time": "Full-time",
+  "experience": "0-2 years",
+  "jobtype": "Design"
+},
+{
+  "id": 11,
+  "jobTitle": "HR Generalist",
+  "salary": "50k-60k",
+  "link": "https://bit.ly/3r7X9Ej",
+  "company": "Global Enterprises",
+  "description": "We are seeking an HR Generalist to support our growing team.",
+  "location": "Houston, TX",
+  "time": "Full-time",
+  "experience": "3-5 years",
+  "jobtype": "Human Resources"
+},
+{
+  "id": 12,
+  "jobTitle": "Product Manager",
+  "salary": "80k-90k",
+  "link": "https://bit.ly/3ZUtSvS",
+  "company": "Innovative Solutions",
+  "description": "We are seeking a Product Manager to lead the development of our next-generation product.",
+  "location": "Seattle, WA",
+  "time": "Full-time",
+  "experience": "5+ years",
+  "jobtype": "Product Management"
+},
+{
+  "id": 13,
   "jobTitle": "Support Ops Specialist",
   "salary": "",
   "link": "https://bit.ly/3ZQu97E",
@@ -12,7 +156,7 @@
   "jobtype": "Full-time"
 },
 {
-  "id":2,
+  "id":14,
   "jobTitle": "Intern",
   "salary": "Nil",
   "link": "https://bit.ly/3LQ33Y8",
@@ -25,7 +169,7 @@
 },
 
     {
-  "id":"1",
+  "id":15,
   "jobTitle": "Product Support Associate",
   "salary": "",
   "link": "https://bit.ly/3TZzpDS",
@@ -37,7 +181,7 @@
   "jobtype": ""
 },
     {
-  "id": 0,
+  "id": 16,
   "jobTitle": "Product Intern",
   "salary": "Rs. 1,00,000/- per month",
   "link": "https://bit.ly/3GbQ2qb",
