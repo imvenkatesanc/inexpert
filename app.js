@@ -24,7 +24,7 @@ fetch('jobData.json')
               <div class="card-sub">
                 <p><ion-icon name="today-outline"></ion-icon><span id="time">${job.time}</span></p>
                 <p><ion-icon name="hourglass-outline"></ion-icon><span id="jobtype">${job.jobtype}</span></p>
-                <p><ion-icon name="shield-checkmark-outline"></ion-icon><b id="experience">${job.experience}</b><span>/ year</span></p>
+                <p><ion-icon name="shield-checkmark-outline"></ion-icon><b id="experience">${job.experience}</b></p>
               </div>
             </div>
             <div class="card-right">
