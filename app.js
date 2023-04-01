@@ -35,10 +35,10 @@ fetch('jobData.json')
               <div class="card-salary">
                 <p><b id="salary">${job.salary}</b></p>
               </div>
-              <a href="${job.link}" id="apply">
-                <button class="apply">Apply</button>
-              </a>
             </div>
+            <a href="${job.link}" id="apply">
+                <button class="applyc">Apply</button>
+            </a>
           </div>
         </div>
         `;
